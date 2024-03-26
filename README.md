@@ -32,7 +32,7 @@ It will redirect the traffic light according to the nuber of vehicles and in fut
 Arpit Rai
 
 ## Acknowledgments
-We would like to express our gratitude to [Organizing Committee/Institution Name] for organizing #NIETIDEAS2023 and providing a platform to showcase our project. Special thanks to our mentors and advisors for their guidance and support throughout the project development process.
+We would like to express our gratitude to Noida Institute of Engineering and Technology for organizing #NIETIDEAS2023 and providing a platform to showcase our project. Special thanks to our mentors and advisors for their guidance and support throughout the project development process.
 
 ---
 
